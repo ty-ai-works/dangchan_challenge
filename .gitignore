@@ -1,0 +1,16 @@
+.DS_Store
+Thumbs.db
+
+# 레퍼런스 영상·음원 원본: 협회 허가 전까지 저장소에 올리지 않음
+references/*.mp4
+references/*.mov
+references/*.m4v
+references/*.mp3
+references/*.wav
+references/*.aac
+
+# 참여자 사진, 개인정보, 폼 응답
+**/input_photos/
+**/private/
+*응답*.xlsx
+*응답*.csv
